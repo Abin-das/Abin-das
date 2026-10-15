@@ -1,3 +1,4 @@
+<img width="1280" height="360" alt="banner" src="https://github.com/user-attachments/assets/0b62b8e4-3334-43ea-8add-d5667777c2b0" />
 # Hi, I'm Abin Das 👋
 
 **Software Engineer** at Rayblaze Global · Thiruvananthapuram, Kerala, India
